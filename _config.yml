@@ -29,6 +29,11 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
+# Kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false #converts \n to line break
+
 # Comments
 # disqus_shortname:   taylantatli
 
